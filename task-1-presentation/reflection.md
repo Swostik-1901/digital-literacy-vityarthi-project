@@ -1,6 +1,9 @@
 
 # Digital Literacy for Students Infographic
 
+<img width="1014" height="1195" alt="Digital Literacy   O" src="https://github.com/user-attachments/assets/0627c75b-44e4-4e95-9131-6a5643645a6e" />
+
+
 ## Tool Used
 For this project, I used a graphic design tool to create a visually engaging infographic poster. 
 The tool allowed me to incorporate icons, illustrations, colour-coded sections, and styled 
