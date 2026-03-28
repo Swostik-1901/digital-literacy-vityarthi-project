@@ -1,5 +1,5 @@
 
-# Project Report: Digital Literacy for Students Infographic
+# Digital Literacy for Students Infographic
 
 ## Tool Used
 For this project, I used a graphic design tool to create a visually engaging infographic poster. 
