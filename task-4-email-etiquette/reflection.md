@@ -26,10 +26,6 @@ INTEGRATED MTECH(COMPUTER SCIENCE AND ENGINEERING WITH COMPUTATIONAL AND DATA SC
 ---
 
 
-
-
-# Task 4: Email Etiquette Reflection
-
 ## Email 2: Internship Inquiry
 
 **Subject:** Internship Inquiry: Summer 2026 Opportunity – SWOSTIK SHUBHAM BEHERA
