@@ -15,3 +15,7 @@ RESPONSE VIEW OF THE DIGITAL LITERACY AWARENESS QUIZ:
 
 
 <img width="1786" height="175" alt="image" src="https://github.com/user-attachments/assets/11e57a4b-f70c-4dbc-a91a-5f5c9b0336d6" />
+
+
+<img width="1423" height="855" alt="image" src="https://github.com/user-attachments/assets/6b1dbbf3-cb9f-4514-85d7-8b792874f74e" />
+
